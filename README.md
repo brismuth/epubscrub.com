@@ -1,1 +1,2 @@
-# epub-scrub-public
+# ePubScrub.com
+https://epubscrub.com/
